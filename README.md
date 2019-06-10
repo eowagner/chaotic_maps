@@ -65,7 +65,7 @@ plt.savefig("gauss.png", dpi=300)
 ```
 
 
-![](https://raw.githubusercontent.com/eowagner/chaotic_maps/master/demo/gauss.png" The Gauss Iterated Map")
+("https://raw.githubusercontent.com/eowagner/chaotic_maps/master/demo/gauss.png")
 
 # Cobweb plots
 
