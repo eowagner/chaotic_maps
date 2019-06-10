@@ -64,8 +64,7 @@ cm.bifurcation_plot(
 plt.savefig("gauss.png", dpi=300)
 ```
 
-![The Gauss Iterated Map]
-(https://raw.githubusercontent.com/eowagner/chaotic_maps/master/demo/gauss.png)
+![The Gauss Iterated Map](https://raw.githubusercontent.com/eowagner/chaotic_maps/master/demo/gauss.png)
 
 # Cobweb plots
 
@@ -92,5 +91,4 @@ plt.tight_layout()
 plt.savefig("sin_cobwebs.png", dpi=300)
 ```
 
-![The Sine Map]
-(https://github.com/eowagner/chaotic_maps/raw/master/demo/sin_cobwebs.png)
+![The Sine Map](https://github.com/eowagner/chaotic_maps/raw/master/demo/sin_cobwebs.png)
