@@ -3,7 +3,7 @@ A python library for creating cobweb plots, bifurcation diagrams, and calculatin
 
 The library includes several common one-dimensional maps and discrete-time evolutionary/learning dynamics such as the replicator dynamic.
 
-When calculating Lyapunov exponents you can either pass the map's first-order derivative, or the plotting function can calculate the derivative using scipy.misc.derivative.  Unfortunately, scipy's derivate function can be very slow and may raise error depending on the map's shape.
+When calculating Lyapunov exponents you can either pass the map's first-order derivative, or the plotting function can calculate the derivative using scipy.misc.derivative.  Unfortunately, scipy's derivate function can be very slow and may raise errors depending on the map's shape.
 
 # Bifurcation diagram with Lyapunov exponents
 
