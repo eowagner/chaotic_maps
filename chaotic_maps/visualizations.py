@@ -23,7 +23,7 @@ def bifurcation_data_fixed_x(
             else:
                 lyap += np.log(np.absolute(deriv(x)))
 
-    lyap /= dropped_steps + y_points
+    lyap /= y_points
 
     return res, lyap
 
